@@ -30,7 +30,6 @@ $
 
 <!--endsec-->
 
-Each command will be prepended by a `$` or `>` or `%` and one space, but you should not type it. Your computer will do it for you. :)
 
 > Just a small note: in your case there may be something like
 > `C:\Users\ola>`
@@ -40,4 +39,5 @@ Each command will be prepended by a `$` or `>` or `%` and one space, but you sho
 
 The part up to and including the `$`, the `>` or the `%` is called the *command line prompt*, or *prompt* for short. It prompts you to input something there.
 
-In the tutorial, when we want you to type in a command, we will include the `$` or `>`, and occasionally more to the left. Ignore the left part and only type in the command, which starts after the prompt.
+In the tutorial, when we want you to type in a command, we will include the prompt, `%` or `$` or `>`, and occasionally more, to the left.
+Ignore the left part and only type in the command, which starts after the prompt.
