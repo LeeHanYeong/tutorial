@@ -17,7 +17,7 @@ One thing to watch out for: During the installation, you will notice a window ma
 
 When the installation completes, you may see a dialog box with a link you can follow to learn more about Python or about the version you installed. Close or cancel that dialog -- you'll be learning more in this tutorial!
 
-Note: If you are using an older version of Windows (10, 7, Vista, or any older version) and the Python {{ book.py_version }} installer fails with an error, then install all Windows Updates and try to install Python again. If you still have the error, try installing the 32-bit version of Python, or try installing an older version, Python {{ book.py_min_release }}, from [Python.org](https://www.python.org/downloads/windows/).
+Note: If you are using an Windows 10 and the Python {{ book.py_version }} installer fails with an error, then install all Windows Updates and try to install Python again. If you still have the error, try installing the 32-bit version of Python, or try installing an older version, Python {{ book.py_min_release }}, from [Python.org](https://www.python.org/downloads/windows/).
 
 > Django {{ book.django_version }} needs Python {{ book.py_min_version }} or greater, which does not support Windows XP or earlier versions.
 
