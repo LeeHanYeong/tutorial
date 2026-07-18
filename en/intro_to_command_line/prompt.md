@@ -27,9 +27,6 @@ If you're on Linux, you probably see a `$`, like this:
 ```
 $
 ```
-<!--endsec-->
-
-Take a look at the Linux section just above now -- you'll see something more like that when you get to PythonAnywhere later in the tutorial.
 
 <!--endsec-->
 
