@@ -81,6 +81,9 @@ $RECYCLE.BIN/
 .vscode/
 .history/
 *.code-workspace
+
+# Pycharm
+.idea
 ```
 
 And save it as `.gitignore` in the "djangogirls" folder.
